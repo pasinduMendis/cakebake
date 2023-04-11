@@ -1,0 +1,28 @@
+.members{
+    /* border: 2px solid green; */
+}
+
+
+
+.catogoryImages{
+    width: 300px;
+    margin: 20px 0px;
+    box-shadow: inset;
+}
+
+.cakeType{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.memberD{
+    /* border: 2px solid pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #DCADBB;
+    color: white;
+    font-weight: 600;
+}

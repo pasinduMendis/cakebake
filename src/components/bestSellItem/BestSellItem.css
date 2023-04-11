@@ -1,0 +1,18 @@
+.sellItems{
+    /* border: 2px solid black; */
+    width: 280px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+
+}
+.bestItem{
+    /* border: 2px solid black; */
+    width: 280px;
+}
+.bestItemDataContainer{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.cakeitem{
+    /* border: 2px solid green; */
+    width: 230px;
+    margin-bottom: 40px;
+}
+
+.cakeItemIMG{
+    width: 230px;
+    height: 230px;
+}
+
+.cakeItemDetails{
+    text-align: center;
+}
+
+.cakedd{
+    margin: 0;
+}

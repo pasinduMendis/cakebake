@@ -1,0 +1,60 @@
+.mainContainerCust{
+    width: 100%;
+    height: 460px;
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(253, 253, 253, 0.5);
+    position: absolute;
+    top: 140px;
+}
+
+.customizedslide{
+    width: 50%;
+    height: 350px;
+    /* border: 2px solid black; */
+    background-color:#5B6187;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.toppingadder{
+    /* border: 2px solid black; */
+    display: flex;
+    width: 400px;
+    align-items: center;
+}
+.textNames{
+    display: flex;
+    align-items: center;
+
+}
+.closebnt{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 180px;
+}
+
+.additionalbtns{
+    width: 140px;
+    height: 30px;
+    margin-left: 10px;
+    background-color: #C37979;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 15px;
+}
+.donebtn{
+    width: 80px;
+    height: 30px;
+    background-color: #858DBD;
+    border-radius: 10px;
+    margin-left: 500px;
+    border: none;
+}
+.typename{
+    width: 120px;
+}

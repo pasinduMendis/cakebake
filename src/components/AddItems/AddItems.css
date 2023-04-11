@@ -1,0 +1,85 @@
+.addContainer{
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    height: 480px;
+}
+
+.addingContainer{
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.addbox{
+    /* border: 2px solid rgb(167, 40, 40); */
+    display: flex;
+}
+
+.addInputContainer{
+    /* border: 2px solid rgb(51, 40, 176); */
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.imgAdder{
+    /* border: 2px solid rgb(198, 180, 17); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.imageShower{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+}
+.boxConainer{
+    /* border: 2px solid rgb(206, 224, 17); */
+    width: 88%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.labelName{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.inputfield{
+    width: 220px;
+    height: 30px;
+}
+
+.textAdder{
+    margin-left: 260px;
+}
+
+.addbtndiv{
+    /* border: 2px solid black; */
+    height: 55px;
+    display: flex;
+    align-items: center;
+
+}
+.addbtn{
+    background-color: #858DBD;
+    width: 100px;
+    height: 35px;
+    margin-left: 190px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}

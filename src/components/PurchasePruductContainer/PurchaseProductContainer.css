@@ -1,0 +1,130 @@
+.closebtn{
+    width: 15px;
+
+}
+.closebtnContainer{
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 60px;
+}
+
+.listedItems{
+    /* border: 2px solid black; */
+    display: flex;
+}
+
+.itemimage{
+    border-bottom: 1px solid rgb(0, 0, 0);
+    display: flex;
+    width: 500px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+.productName{
+    /* border: 2px solid saddlebrown; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    width: 360px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.imageInside{
+    width: 130px;
+    height: 80px;
+    border-radius: 10px;
+}
+.price{
+    border-bottom: 1px solid rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    font-family: 'Poppins', sans-serif;
+}
+.qtybtn{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.quantity-input{
+    display: flex;
+    width: 50px;
+}
+.inputQry{
+    width: 50px;
+    height: 25px;
+}
+
+.leftbtn, .rightbtn{
+    width: 30px;
+    height: 30px;
+}
+
+.pricetotal{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    font-family: 'Poppins', sans-serif;
+}
+.customizeBtndiv{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+.cutomizbtn{
+    width: 100px;
+    background-color: #DCADBB;
+    height: 40px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+
+}
+
+.productTitle{
+    /* border: 2px solid black; */
+    margin-left: 280px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.productprice{
+    /* border: 2px solid black; */
+    margin-left: 100px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.productQty{
+    /* border: 2px solid black; */
+    margin-left: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.productsubtotal{
+    /* border: 2px solid black; */
+    margin-left: 10px;
+    width: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

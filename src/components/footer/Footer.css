@@ -1,0 +1,21 @@
+.footerContainer{
+    /* border: 2px solid black; */
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #5B6187;
+    align-items: center;
+
+}
+
+.contactDetails,.quickDetails,.services{
+    /* border: 2px solid gray; */
+    width: 320px;
+    height: 100px;
+    display: flex;
+    color: white;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+}

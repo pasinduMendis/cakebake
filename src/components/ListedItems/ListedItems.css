@@ -1,0 +1,58 @@
+.itemContainer{
+    /* border: 2px solid black; */
+    width: 100%;
+}
+
+.columnNames{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+
+.itemList{
+    /* border: 2px solid green; */
+    
+}
+
+
+
+
+.purchasebtnContainer{
+    /* border: 2px solid black; */
+    display: flex;
+    width: 100%;
+    justify-content: right;
+    align-items: center;
+    position: fixed;
+    bottom: 10px;
+}
+
+.purchasebtn{
+    width: 150px;
+    height: 50px;
+    margin-right: 210px;
+    border-radius: 10px;
+    background-color: #DCADBB;
+    border: none;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.totalViewer{
+    /* border: 2px solid black; */
+    height: 80px;
+    display: flex;
+    justify-content: right;
+
+}
+
+.subtotal{
+    /* border: 2px solid black; */
+    width: 250px;
+    margin-right: 90px;
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}

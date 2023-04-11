@@ -1,0 +1,98 @@
+.billShipcontainer{
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.shippingContainer{
+    /* border: 2px solid red; */
+    width: 70%;
+    margin-left: 70px;
+}
+
+.purchaseinfor{
+    /* border: 2px solid green; */
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+.billtext{
+    font-weight: 600;
+}
+
+.inputs{
+    width: 400px;
+    height: 25px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(192, 190, 190);
+    border-radius: 5px;
+}
+.namecontainer{
+    display: flex;
+    flex-direction: row;
+}
+.sd{
+    width: 180px;
+    margin-right: 35px;
+}
+
+.datetime{
+    border: none;
+}
+.additionalInfo{
+    width: 400px;
+    height: 80px;
+    border: 1px solid rgb(192, 190, 190);
+}
+
+.columnadder{
+    display: flex;
+    border-bottom: 1px solid rgb(181, 180, 180);
+    width: 300px;
+    align-items: center;
+    justify-content: space-between;
+    height: 20px;
+}
+.toppinsAdder{
+    display: flex;
+    /* border-bottom: 2px solid rgb(222, 220, 220); */
+    width: 300px;
+    align-items: center;
+    justify-content: space-between;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+.totaltext{
+    color: rgb(132, 132, 130);
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+.pricetext{
+    font-weight: 400;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.regualtionIMg{
+    width: 350px;
+}
+
+.paybtn{
+    width: 150px;
+    height: 40px;
+    background-color: #DCADBB;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.dategetter{
+    display: flex;
+    /* border: 2px solid red; */
+}
